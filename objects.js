@@ -1,4 +1,4 @@
 var playlist = {
-  Sam Smith: "Lay me Down",
-  Ed Sheeran: "Shape of You"
+  SamSmith: "Lay me Down",
+  EdSheeran: "Shape of You"
 }
