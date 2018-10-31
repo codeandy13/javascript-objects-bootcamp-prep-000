@@ -1,6 +1,5 @@
 var playlist = {
-  SamSmith: "Lay me Down",
-  EdSheeran: "Shape of You"
+  artistName: songTitle
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
